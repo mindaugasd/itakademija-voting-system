@@ -1,0 +1,5 @@
+vs\admin\features\constitutency\model\Constituency.class
+vs\admin\features\district\model\District.class
+vs\admin\features\party\model\Party.class
+vs\Application.class
+vs\admin\features\candidate\model\Candidate.class
